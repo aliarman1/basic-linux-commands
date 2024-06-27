@@ -1,0 +1,2 @@
+# cd Command
+The 'cd' command is used to change the current directory.
